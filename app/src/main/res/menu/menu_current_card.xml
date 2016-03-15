@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/card_edit_product"
+        android:orderInCategory="100"
+        android:title="@string/card_menu_edit_product"/>
+
+    <item
+        android:id="@+id/card_delete_product"
+        android:orderInCategory="100"
+        android:title="@string/card_menu_delete_product"/>
+
+</menu>

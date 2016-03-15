@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priority">
+        <item>Низкий приоритет</item>
+        <item>Нормальный приоритет</item>
+        <item>Высокий приоритет</item>
+    </string-array>
+
+
+    <string name="app_name">Помощник покупок</string>
+    <string name="action_new_list">Новый список</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_statistic">Статистика</string>
+    <string name="current_task">Текущие</string>
+    <string name="task_title">Продукт</string>
+    <string name="done_task">Завершенные</string>
+    <string name="dialog_tittle">Добавить продукт</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_product_quantity">Количество</string>
+    <string name="do_not_show_splash">Не показывать заставку</string>
+    <string name="dialog_removing_massage">Удалить продукт?</string>
+    <string name="dialog_edit_task">Редактировать продукт</string>
+    <string name="dialog_error_empty_title">Введите название</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="task_time">Время</string>
+    <string name="task_date">Дата</string>
+    <string name="removed">Удаленный</string>
+    <!--<string name="baner_id">ca-app-pub-6552042271963206/9104434570</string>-->
+    <string name="baner_id">ca</string>
+</resources>
